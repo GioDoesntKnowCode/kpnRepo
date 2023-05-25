@@ -5,6 +5,7 @@
 1. Brief
 2. Potential Changes
 3. Dependencies 
+4. Preview
 
 ## 1. Brief
 Quick project for KPN assesment, I wanted to implement redux, but I remember what a long process that was from my react native app developing days, so I chose to leave that for later since I am strapped for time during exam week. 
@@ -25,7 +26,13 @@ yarn start
 - Add a mobile mode as the table doesn't scale well for narrow screens
 - Implement Redux: this would be the last step
 
-## Dependencies
+## 3. Dependencies
 There are some extra dependencies that can be removed, but are present due to me experimenting.
 
 Running `npm install` or `yarn install` would install everything needed.
+
+
+## 4. Preview
+![Screenshot 2023-05-25 at 22 55 11](https://github.com/GioDoesntKnowCode/kpnRepo/assets/50869390/d318e517-c57b-4910-b949-36ef0cdbecd2)
+
+
