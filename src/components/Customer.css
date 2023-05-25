@@ -1,0 +1,47 @@
+/* CustomerList.css */
+.customer-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .customer-table th,
+  .customer-table td {
+    padding: 12px 20px;
+    text-align: left;
+  }
+  
+  .customer-table th {
+    background-color: #0067B8;
+    color: #FFFFFF;
+    width: '600px'
+  }
+  
+  .customer-table tbody tr:nth-child(even) {
+    background-color: #F6F6F6;
+  }
+  
+  .customer-table tbody tr:hover {
+    background-color: #E0E0E0;
+  }
+  
+  .customer-table td:first-child {
+    width: 10%;
+  }
+  
+  .pagination-container {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .customer-table {
+    width: calc(100% - 20px) !important;
+    table-layout: fixed;
+  }
+  
+  .customer-table th,
+  .customer-table td {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
