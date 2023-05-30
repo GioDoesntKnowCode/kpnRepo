@@ -33,6 +33,6 @@ Running `npm install` or `yarn install` would install everything needed.
 
 
 ## 4. Preview
-![Screenshot 2023-05-25 at 22 55 11](https://github.com/GioDoesntKnowCode/kpnRepo/assets/50869390/d318e517-c57b-4910-b949-36ef0cdbecd2)
+![Screenshot 2023-05-25 at 23 20 46](https://github.com/GioDoesntKnowCode/kpnRepo/assets/50869390/d5ea94b6-4fad-4d1a-aa2f-99bef8135e39)
 
 
